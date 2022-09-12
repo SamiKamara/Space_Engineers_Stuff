@@ -6,7 +6,7 @@
 
     Master turret is selected by naming it "Master"
 
-    Based on Saitams script which reseted all turrets to default position.
+    Based on Saitams() script which reseted all turrets to default position.
 */
 
 void Main(string argument)

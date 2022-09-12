@@ -4,7 +4,7 @@
     This is a Space Engineers script that resets one turrets rotation and sets other turrets to aim at same point
     as the master turret.
 
-    Master turret is selected by naming it "Master" =)
+    Master turret is selected by naming it "Master"
 
     Based on Saitams(https://steamcommunity.com/id/saitam) script which reseted all turrets to default position.
 */
